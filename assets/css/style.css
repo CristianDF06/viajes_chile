@@ -69,22 +69,30 @@ header .navbar {
     text-align: justify;
 }
 
-/*FOOTER*/
-footer{
-    background-color: #0eb5bb;;
-    padding: 1px 0;
-}
-
 /*CONTACTO*/
 .titulo_seccion-4{
     text-align: center;
     background-color: white;
-    font-size: 30px;
+    font-size: 35px;
     padding-top: 280px;
     margin: 0 7%;
 }
+.boton{
+    margin-top: 30px;
+    padding: 14px 90px;
+    font-size: 20px;
+}
+.boton_seccion-4{
+    background-color: white;
+    padding-bottom: 280px;
+    margin: 0 7%;
+}
 
-
+/*FOOTER*/
+footer{
+    background-color: #0eb5bb;;
+    padding: 8px 0;
+}
 footer p{
     color:white;
     font-size: 25px;
