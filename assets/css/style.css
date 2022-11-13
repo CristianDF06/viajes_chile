@@ -53,7 +53,6 @@ header .navbar {
 }
 
 /*CARROUSEL*/
-
 .img_card1{
 	width: 90%;
 }
@@ -76,7 +75,23 @@ footer{
     padding: 1px 0;
 }
 
+/*CONTACTO*/
+.titulo_seccion-4{
+    text-align: center;
+    background-color: white;
+    font-size: 30px;
+    padding-top: 280px;
+    margin: 0 7%;
+}
+
+
 footer p{
     color:white;
     font-size: 25px;
+}
+.margen{
+    margin: 0 200px;
+}
+.icons-2{
+    font-size: 2rem;
 }
